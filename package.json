@@ -1,0 +1,17 @@
+{
+  "name": "readable-lists-api",
+  "version": "0.0.0",
+  "description": "Database adapters and API for readable-lists",
+  "keywords": [],
+  "dependencies": {
+    "mongod": "~1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/readable-lists/readable-lists-api.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
