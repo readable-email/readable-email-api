@@ -1,6 +1,6 @@
 {
   "name": "readable-lists-api",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Database adapters and API for readable-lists",
   "keywords": [],
   "dependencies": {
